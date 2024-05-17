@@ -11,6 +11,7 @@
 		"discord-api-types": "^0.37.83",
 		"discord.js": "^14.15.2",
 		"dotenv": "^16.4.5",
+		"tslog": "^4.9.2",
 		"typescript": "^5.4.5",
 		"zod": "^3.23.8"
 	},
